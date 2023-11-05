@@ -30,14 +30,7 @@ public class Main {
         machines.add(new Machine("Станок 8", 1850, 78, 6.5));
         machines.add(new Machine("Станок 9", 1900, 70, 7.5));
         machines.add(new Machine("Станок 10", 2000, 65, 7.1));
-        machines.add(new Machine("Станок 11", 2100, 61, 7.4));
-        machines.add(new Machine("Станок 12", 2200, 60, 7));
-        machines.add(new Machine("Станок 13", 2300, 58, 6.8));
-        machines.add(new Machine("Станок 14", 2400, 55, 5));
-        machines.add(new Machine("Станок 15", 2500, 50, 6.5));
-        machines.add(new Machine("Станок 16", 2600, 70, 7));
-        machines.add(new Machine("Станок 17", 2100, 80, 8));
-        machines.add(new Machine("Станок 18", 2000, 75, 9));
+
 
         double[] weights = {0.2, 0.4, 0.4};
 
